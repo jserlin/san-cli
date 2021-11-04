@@ -4,6 +4,7 @@
 #### 使用
 - 安装 
   - npm install san-template-cli -g
+  - 或者下载项目后 执行npm link
 - 查看是否安装成功
   - san-cli 会在控制台显示命令
 - 查看当前所有模板项目 
